@@ -27,7 +27,7 @@ class Program
         while (true)
         {
             Console.Clear();
-            Console.WriteLine("=== Bank Zaliczenie ===");
+            Console.WriteLine("==== Bank Zaliczenie ====");
             Console.WriteLine("1. Pokaż listę klientów");
             Console.WriteLine("2. Zrób przelew");
             Console.WriteLine("3. Wyjście");
